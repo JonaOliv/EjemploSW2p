@@ -1,0 +1,13 @@
+{
+  "uploadOnSave": true,
+  "hostname": "192.168.29.144",
+  "port": "22",
+  "target": "/root/p2/segundoParcial",
+  "ignore": [
+    ".git/**",
+    "node_modules/**"
+  ],
+  "username": "root",
+  "password": "lucario",
+  "transport": "scp"
+}
